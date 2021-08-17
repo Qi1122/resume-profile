@@ -14,12 +14,12 @@
       "state": "saf",
       "zip": "asdf"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "https://drive.google.com/file/d/1KjzGpUAeqfh4mgxe8ijvA_bv4kKRz1Fg/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "",
         "className": ""
       },
       {
@@ -34,7 +34,7 @@
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "",
         "className": ""
       },
       {
@@ -135,7 +135,7 @@
         "title": "Resume Website",
         "category": "",
         "image": "resume-website-4.jpg",
-        "url": ""
+        "url": "https://github.com/Qi1122/resume-profile"
       },
       {
         "title": "Restaurant Recommend React Native App",
