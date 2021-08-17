@@ -1,0 +1,160 @@
+{
+  "main": {
+    "name": "Qi Sun",
+    "occupation": "US based",
+    "description": "full stack software engineer",
+    "image": "profilepic.jpg",
+    "bio": "A grounded and solution-oriented candidate for a full-time software engineer position, with strong skills in analyzing project requirements, architecture and developing applications using Java, JavaScript, Python, Amazon Web Service, Google Cloud etc. Effective communication with ability to work independently or  in a team environment.",
+    "contactmessage": "message to readers to have them get in contact with you.",
+    "email": "E-mail: qs4790@gmail.com",
+    "phone": "Mobile: 917-216-3117",
+    "address": {
+      "street": "16423",
+      "city": "asdf",
+      "state": "saf",
+      "zip": "asdf"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/1KjzGpUAeqfh4mgxe8ijvA_bv4kKRz1Fg/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": ""
+      },
+      {
+        "name": "twitter",
+        "url": "",
+        "className": ""
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/qi-sun-61392990/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": ""
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Qi1122",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Baruch College - CUNY",
+        "degree": "MS in Data Science",
+        "graduated": "2019 - 2020",
+        "description": ""
+      },
+      {
+        "school": "New York University ",
+        "degree": "MS in Computer Science",
+        "graduated": "2017 - 2019",
+        "description": ""
+      },
+      {
+        "school": "Queens College - CUNY",
+        "degree": "BA in Computer Science",
+        "graduated": "2016 - 2017",
+        "description": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      },
+      {
+        "company": "",
+        "title": "",
+        "years": "",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "60%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "Git",
+        "level": "80%"
+      },
+      {
+        "name": "React",
+        "level": "60%"
+      },
+      {
+        "name": "Django",
+        "level": "75%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Twitter Backend Full-stack  Project",
+        "category": "",
+        "image": "twitter-1.jpg",
+        "url": ""
+      },
+      {
+        "title": "Assistant for Visually Impaired",
+        "category": "",
+        "image": "Java-assistant-2.jpg",
+        "url": ""
+      },
+      {
+        "title": "Instagram Simulation Project with React-Native",
+        "category": "",
+        "image": "instagram-3.jpg",
+        "url": ""
+      },
+      {
+        "title": "Resume Website",
+        "category": "",
+        "image": "resume-website-4.jpg",
+        "url": ""
+      },
+      {
+        "title": "Restaurant Recommend React Native App",
+        "category": "",
+        "image": "restaurant-5.jpg",
+        "url": "https://github.com/Qi1122/cloud-computing-restaurant-recommend-app"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Kareem Abdul Jabbar"
+      },
+      {
+        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
